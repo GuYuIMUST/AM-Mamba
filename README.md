@@ -228,7 +228,7 @@ This work builds upon several excellent open-source projects:
 ## 📧 Contact
 
 For questions and discussions, please open an issue or contact:
-- Email: [your-email@example.com]
+- Email: 2023023212@stu.imust.edu.cn
 - Project Page: [will be available upon acceptance]
 
 ## 📄 License
@@ -241,6 +241,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ## 🔄 Updates
 
-- **2024-12**: Initial repository setup
+- **2025-12**: Initial repository setup
 - **[TBD]**: Paper submission
 - **[TBD]**: Full code release upon acceptance
+
