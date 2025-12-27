@@ -95,7 +95,7 @@ CUDA >= 11.8 (for GPU training)
 
 ```bash
 # Clone the repository (will be available upon paper acceptance)
-git clone https://github.com/[username]/AM-Mamba.git
+git clone https://github.com/GuYuIMUST/AM-Mamba.git
 cd AM-Mamba
 
 # Install dependencies
@@ -244,4 +244,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 - **2025-12**: Initial repository setup
 - **[TBD]**: Paper submission
 - **[TBD]**: Full code release upon acceptance
+
 
